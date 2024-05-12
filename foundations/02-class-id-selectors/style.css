@@ -1,0 +1,18 @@
+.paragraph {
+    background-color: #d88282;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#nr2 {
+    color: #3a77a5;
+    font-size: 36px;
+}
+
+#nr4 {
+    background-color: #38761d;
+    font-weight: bold;
+}
+
+.unique {
+    font-size: 24px;
+}
